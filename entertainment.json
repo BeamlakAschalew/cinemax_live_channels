@@ -1,0 +1,49 @@
+{
+	"channel_count": 1,
+	"channels": [
+		{
+			"channel_name": "Comedy Central (US)",
+			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45448"
+				}
+			]
+		},
+        {
+            "channel_name": "Discovery Channel (US)",
+            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://iptvch.com:2082/worldiptv/8dV6wu3BVzfd9P2/32344"
+                }
+            ]
+        },
+        {
+            "channel_name": "BET",
+            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45610"
+                }
+            ]
+        },
+        {
+            "channel_name": "MTV",
+            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://iptvch.com:2082/worldiptv/8dV6wu3BVzfd9P2/191700"
+                },
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45461"
+                }
+            ]
+        }
+	]
+}
