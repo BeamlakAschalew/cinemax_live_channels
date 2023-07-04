@@ -37,7 +37,7 @@
         },
         {
             "channel_name": "Lifetime",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv.png",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/lifetime.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
