@@ -5,13 +5,13 @@
 			"channel_name": "SuperSport Action",
 			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
 			"channel_stream": [
-                {
+				{
 					"video_quality": "720p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900"
 				}
 			]
 		},
-        {
+		{
 			"channel_name": "SuperSport Blitz",
 			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
 			"channel_stream": [
@@ -19,13 +19,13 @@
 					"video_quality": "1080p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28906"
 				},
-                {
+				{
 					"video_quality": "576p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/425310"
 				}
 			]
 		},
-        {
+		{
 			"channel_name": "SuperSport Premier League",
 			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
 			"channel_stream": [
@@ -33,13 +33,13 @@
 					"video_quality": "1080p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28896"
 				},
-                {
+				{
 					"video_quality": "720p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239078"
 				}
 			]
 		},
-        {
+		{
 			"channel_name": "Sky Sports News",
 			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
 			"channel_stream": [
@@ -47,15 +47,15 @@
 					"video_quality": "1080p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/30494"
 				},
-                {
+				{
 					"video_quality": "720p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83448"
 				},
-                {
+				{
 					"video_quality": "576",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/79474"
 				}
 			]
-        }
-    ]
+		}
+	]
 }
