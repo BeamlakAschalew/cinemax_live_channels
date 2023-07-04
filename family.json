@@ -1,0 +1,115 @@
+{
+	"channel_count": 4,
+	"channels": [
+        {
+			"channel_name": "Discovery Family",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/d_family.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45443"
+				}
+			]
+		},
+        {
+			"channel_name": "WildEarth",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/wildearth.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "https://wildearth-roku.amagi.tv/masterR720P.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "Nick jr",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nickjr.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45522"
+				}
+			]
+		},
+        {
+			"channel_name": "Nickelodeon",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nick.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45521"
+				}
+			]
+		},
+        {
+			"channel_name": "Cartoon Network",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cn.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45607"
+				}
+			]
+		},
+        {
+			"channel_name": "Disney Channel",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_channel.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45588"
+				}
+			]
+		},
+        {
+			"channel_name": "Nicktoons",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nicktoons.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45520"
+				}
+			]
+		},
+        {
+			"channel_name": "Boomerang",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/boomerang.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45608"
+				}
+			]
+		},
+        {
+			"channel_name": "CBeebies",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cebeebies.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/16204"
+				}
+			]
+		},
+        {
+			"channel_name": "Disney Junior",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_junior.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45587"
+				}
+			]
+		},
+        {
+			"channel_name": "PBS Kids",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/pbs_kids.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/90965"
+				}
+			]
+		}
+	]
+}

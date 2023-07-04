@@ -1,0 +1,59 @@
+{
+	"channel_count": 4,
+	"channels": [
+        {
+			"channel_name": "Food network",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/food.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45577"
+				}
+			]
+		},
+        {
+			"channel_name": "History",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/history.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45444"
+				}
+			]
+		},
+        {
+			"channel_name": "Discovery",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery.png",
+			"channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://iptvch.com:2082/worldiptv/8dV6wu3BVzfd9P2/32344"
+                },
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45442"
+				}
+			]
+		},
+        {
+			"channel_name": "National Geographic",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ng.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45453"
+				}
+			]
+		},
+        {
+			"channel_name": "National Geographic Wild",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ng_wild.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45452"
+				}
+			]
+		}
+	]
+}

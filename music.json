@@ -1,0 +1,75 @@
+{
+	"channel_count": 4,
+	"channels": [
+		{
+			"channel_name": "Trace Urban",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/trace_urban.png",
+			"channel_stream": [
+				{
+					"video_quality": "Multiple resolutions",
+					"stream_link": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "MTV Club",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_club.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://iptv.prosto.tv:7000/ch125/video.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "MTV 00's",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/m00s.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://iptv.prosto.tv:7000/ch129/video.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "MTV 90's",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/m90s.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://iptv.prosto.tv:7000/ch127/video.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "MTV 80's",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/m80s.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://iptv.prosto.tv:7000/ch130/video.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "Hits Music",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/shits.png",
+			"channel_stream": [
+				{
+					"video_quality": "Multiple resolutions",
+					"stream_link": "https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "Stingray Hit List",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/shits.png",
+			"channel_stream": [
+				{
+					"video_quality": "Multiple resolutions",
+					"stream_link": "https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8"
+				}
+			]
+		}
+	]
+}
