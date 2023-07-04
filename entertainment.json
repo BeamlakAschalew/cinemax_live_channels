@@ -1,9 +1,9 @@
 {
-	"channel_count": 1,
+	"channel_count": 4,
 	"channels": [
 		{
 			"channel_name": "Comedy Central (US)",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -13,7 +13,7 @@
 		},
         {
             "channel_name": "Discovery Channel (US)",
-            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery.png",
             "channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -23,7 +23,7 @@
         },
         {
             "channel_name": "BET",
-            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet.png",
             "channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -33,7 +33,7 @@
         },
         {
             "channel_name": "MTV",
-            "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv.png",
             "channel_stream": [
                 {
                     "video_quality": "1080p",
