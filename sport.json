@@ -3,7 +3,7 @@
 	"channels": [
 		{
 			"channel_name": "SuperSport Action",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_action.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -13,7 +13,7 @@
 		},
 		{
 			"channel_name": "SuperSport Blitz",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_blitz.png",
 			"channel_stream": [
                 {
 					"video_quality": "576p",
@@ -23,7 +23,7 @@
 		},
 		{
 			"channel_name": "SuperSport Cricket",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_cricket.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -37,7 +37,7 @@
 		},
 		{
 			"channel_name": "SuperSport Football",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_football.png",
 			"channel_stream": [
                 {
 					"video_quality": "720p",
@@ -47,7 +47,7 @@
 		},
 		{
 			"channel_name": "SuperSport Golf",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_golf.png",
 			"channel_stream": [
                 {
 					"video_quality": "720p",
@@ -57,7 +57,7 @@
 		},
 		{
 			"channel_name": "SuperSport Grandstand",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_grandstand.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -71,7 +71,7 @@
 		},
 		{
 			"channel_name": "SuperSport LaLiga",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_laliga.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -81,7 +81,7 @@
 		},
 		{
 			"channel_name": "SuperSport Maximo 1",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_maximo1.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -91,7 +91,7 @@
 		},
 		{
 			"channel_name": "SuperSport Motorsport",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_motorsport.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -101,7 +101,7 @@
 		},
 		{
 			"channel_name": "SuperSport Premier League",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_pl.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -115,7 +115,7 @@
 		},
 		{
 			"channel_name": "SuperSport PSL",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_psl.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -125,7 +125,7 @@
 		},
 		{
 			"channel_name": "SuperSport Rugby",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_rugby.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -135,7 +135,7 @@
 		},
 		{
 			"channel_name": "SuperSport Variety 1",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_variety1.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -145,7 +145,7 @@
 		},
 		{
 			"channel_name": "SuperSport Variety 2",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_variety2.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -155,7 +155,7 @@
 		},
 		{
 			"channel_name": "SuperSport Variety 3",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_variety3.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -165,7 +165,7 @@
 		},
 		{
 			"channel_name": "SuperSport Variety 4",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_variety4.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -175,7 +175,7 @@
 		},
 		{
 			"channel_name": "Sky Sports News",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_sports_news.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -193,7 +193,7 @@
         },
 		{
 			"channel_name": "Sky Sports Action",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_action.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -207,7 +207,7 @@
         },
 		{
 			"channel_name": "Sky Sports Cricket",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_cricket.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -221,7 +221,7 @@
         },
 		{
 			"channel_name": "Sky Sports F1",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_f1.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -235,7 +235,7 @@
         },
 		{
 			"channel_name": "Sky Sports Football",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_football.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -249,7 +249,7 @@
         },
 		{
 			"channel_name": "Sky Sports Golf",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_golf.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -263,7 +263,7 @@
         },
 		{
 			"channel_name": "Sky Sports Premier League",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_pl.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -277,7 +277,7 @@
         },
 		{
 			"channel_name": "Sky Sports Racing",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_racing.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -290,8 +290,22 @@
 			]
         },
 		{
+			"channel_name": "Sky Sports Main Event",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_main.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/30496"
+				},
+                {
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83450"
+				}
+			]
+        },
+		{
 			"channel_name": "Sky Sports Mix",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_mix.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -305,7 +319,7 @@
         },
 		{
 			"channel_name": "Bein Sports 1",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_en_1.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -319,7 +333,7 @@
         },
 		{
 			"channel_name": "Bein Sports 2",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_en_2.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -333,7 +347,7 @@
         },
 		{
 			"channel_name": "Bein Sports 3",
-			"channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_en_3.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
