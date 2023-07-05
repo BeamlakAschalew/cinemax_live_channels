@@ -1,5 +1,5 @@
 {
-	"channel_count": 5,
+	"channel_count": 8,
 	"channels": [
         {
 			"channel_name": "Food network",
@@ -32,6 +32,36 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45442"
+				}
+			]
+		},
+		{
+			"channel_name": "Discovery Life",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_life.png",
+			"channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91820"
+                }
+			]
+		},
+		{
+			"channel_name": "Discovery Science",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_science.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45441"
+                }
+			]
+		},
+		{
+			"channel_name": "Discovery Turbo",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_turbo.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/1092802"
 				}
 			]
 		},

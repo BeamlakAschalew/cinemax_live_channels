@@ -1,5 +1,5 @@
 {
-	"channel_count": 4,
+	"channel_count": 23,
 	"channels": [
 		{
 			"channel_name": "Comedy Central (US)",
@@ -44,6 +44,196 @@
                     "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45541"
                 }
             ]
-        }
+        },
+        {
+            "channel_name": "A&E",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/aande.png",
+            "channel_stream": [
+                {
+                     "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45619"
+                }
+            ]
+        },
+        {
+            "channel_name": "ABC",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abc.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45439"
+                }
+            ]
+        },
+        {
+            "channel_name": "AS",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/as.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/150345"
+                }
+            ]
+        },
+        {
+            "channel_name": "AMC",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/amc.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45445"
+                }
+            ]
+        },
+        {
+            "channel_name": "AMC Plus",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/amc_plus.png",
+            "channel_stream": [
+                {
+                     "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/534381"
+                }
+            ]
+        },
+        {
+            "channel_name": "Animal Planet",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/animal_planet.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45447"
+                }
+            ]
+        },
+        {
+            "channel_name": "BBC America",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bbc_am.png",
+            "channel_stream": [
+                {
+                     "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45612"
+                }
+            ]
+        },
+        {
+            "channel_name": "BET Gospel",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_gosp.png",
+            "channel_stream": [
+                {
+                     "video_quality": "432p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91767"
+                }
+            ]
+        },
+        {
+            "channel_name": "BET Her",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_her.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91768"
+                }
+            ]
+        },
+        {
+            "channel_name": "BET Jams",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_jams.png",
+            "channel_stream": [
+                {
+                     "video_quality": "480p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91769"
+                }
+            ]
+        },
+        {
+            "channel_name": "BET Soul",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_soul.png",
+            "channel_stream": [
+                {
+                     "video_quality": "480p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91770"
+                }
+            ]
+        },
+        {
+            "channel_name": "Comedy TV",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedytv.png",
+            "channel_stream": [
+                {
+                     "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91944"
+                }
+            ]
+        },
+        {
+			"channel_name": "E! Entertainment",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/e.png",
+			"channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45584"
+                }
+			]
+		},
+		{
+			"channel_name": "Fox Soul",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soul.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/730907"
+                }
+			]
+		},
+		{
+			"channel_name": "Freeform",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/freeform.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45557"
+                }
+			]
+		},
+		{
+			"channel_name": "FX",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fx.png",
+			"channel_stream": [
+                {
+                    "video_quality": "72p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45451"
+                }
+			]
+		},
+		{
+			"channel_name": "FXX",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fxx.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45449"
+                }
+			]
+		},
+		{
+			"channel_name": "MTV Live",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_live.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45460"
+                }
+			]
+		},
+		{
+			"channel_name": "MTV U",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_u.png",
+			"channel_stream": [
+                {
+                    "video_quality": "480p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91913"
+                }
+			]
+		}
 	]
 }
