@@ -595,7 +595,7 @@
 		},
 		{
 			"channel_name": "FOX Soccer Plus",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_rugby.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soccer_plus.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -605,7 +605,7 @@
 		},
 		{
 			"channel_name": "NBC Golf",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soccer_plus.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/golf_channel.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
