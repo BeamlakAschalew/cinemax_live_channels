@@ -1,6 +1,105 @@
 {
-	"channel_count": 4,
+	"channel_count": 10,
 	"channels": [
-		
+        {
+			"channel_name": "ABC News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abc_news.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45438"
+				}
+			]
+		},
+        {
+			"channel_name": "Al Jazeera",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/alj.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45614"
+				}
+			]
+		},
+        {
+			"channel_name": "BBC World News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bbcwn.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91766"
+				}
+			]
+		},
+		{
+			"channel_name": "CBS News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45603"
+                }
+			]
+		},
+		{
+			"channel_name": "CNN",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cnn.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/442785"
+				}
+			]
+		},
+        {
+			"channel_name": "CNBC",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/cnbc/ng.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45593"
+				}
+			]
+		},
+        {
+			"channel_name": "CNBC World",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cnbc_world.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91782"
+				}
+			]
+		},
+		{
+			"channel_name": "FOX News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_news.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45573"
+				}
+			]
+		},
+		{
+			"channel_name": "FOX Livenow",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/foxlive.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/730908"
+				}
+			]
+		},
+		{
+			"channel_name": "MSNBC",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/msnbc.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45535"
+				}
+			]
+		}
 	]
 }
