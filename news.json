@@ -53,7 +53,7 @@
 		},
         {
 			"channel_name": "CNBC",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/cnbc/ng.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/cnbc.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
