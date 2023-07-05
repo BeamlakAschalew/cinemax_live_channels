@@ -1,5 +1,5 @@
 {
-	"channel_count": 7,
+	"channel_count": 14,
 	"channels": [
 		{
 			"channel_name": "Trace Urban",
@@ -58,6 +58,76 @@
 				{
 					"video_quality": "Multiple resolutions",
 					"stream_link": "https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice 70's",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "368p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991608"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Tropicales",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991607"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Country Music",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "720ps",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991605"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Hiphop and R&B",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991602"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Pop",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991601"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Jazz",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991599"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Max",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/991598"
 				}
 			]
 		},

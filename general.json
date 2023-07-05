@@ -1,5 +1,5 @@
 {
-	"channel_count": 8,
+	"channel_count": 9,
 	"channels": [
         {
 			"channel_name": "Food network",
@@ -82,6 +82,16 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45452"
+				}
+			]
+		},
+		{
+			"channel_name": "Oxygen true crime",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/oxygen.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45517"
 				}
 			]
 		}

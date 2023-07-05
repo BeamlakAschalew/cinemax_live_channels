@@ -1,5 +1,5 @@
 {
-	"channel_count": 11,
+	"channel_count": 12,
 	"channels": [
         {
 			"channel_name": "Discovery Family",
@@ -108,6 +108,16 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/90965"
+				}
+			]
+		},
+		{
+			"channel_name": "teen nick",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/teennick.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91877"
 				}
 			]
 		}
