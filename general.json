@@ -7,7 +7,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45577"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2315"
 				}
 			]
 		},
@@ -16,8 +16,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/history.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45444"
+					"video_quality": "1080p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/761"
 				}
 			]
 		},
@@ -27,12 +27,8 @@
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://iptvch.com:2082/worldiptv/8dV6wu3BVzfd9P2/32344"
-                },
-				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45442"
-				}
+                    "stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/23301"
+                }
 			]
 		},
 		{
@@ -40,8 +36,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_life.png",
 			"channel_stream": [
                 {
-                    "video_quality": "1080p",
-                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/91820"
+                    "video_quality": "576p",
+                    "stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/201208"
                 }
 			]
 		},
@@ -50,8 +46,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_science.png",
 			"channel_stream": [
                 {
-                    "video_quality": "720p",
-                    "stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45441"
+                    "video_quality": "1080p",
+                    "stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2301"
                 }
 			]
 		},
@@ -71,7 +67,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45453"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/749"
 				}
 			]
 		},
@@ -81,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45452"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/6503"
 				}
 			]
 		},
@@ -90,8 +86,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/oxygen.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45517"
+					"video_quality": "576p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/6378"
 				}
 			]
 		}
