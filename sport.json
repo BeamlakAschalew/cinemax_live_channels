@@ -97,7 +97,7 @@
 		},
 		{
 			"channel_name": "SuperSport Tennis",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_rugby.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_tennis.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -389,17 +389,27 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45611"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/284530"
 				}
 			]
 		},
 		{
-			"channel_name": "Bein Sports Xtra",
+			"channel_name": "Bein Sports Xtra 1",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/1127391"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/290037"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports Xtra 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/283294"
 				}
 			]
 		},
@@ -409,7 +419,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83953"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151022"
 				}
 			]
 		},
@@ -419,7 +429,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83954"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151024"
 				}
 			]
 		},
@@ -429,7 +439,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83955"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151026"
 				}
 			]
 		},
@@ -439,7 +449,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83956"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151030"
 				}
 			]
 		},
@@ -449,7 +459,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83957"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151028"
 				}
 			]
 		},
@@ -459,7 +469,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83958"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/151032"
 				}
 			]
 		},
@@ -469,7 +479,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45601"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/267357"
 				}
 			]
 		},
@@ -484,22 +494,12 @@
 			]
 		},
 		{
-			"channel_name": "FOX Sports",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_sports.png",
-			"channel_stream": [
-				{
-					"video_quality": "2160p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/1124346"
-				}
-			]
-		},
-		{
 			"channel_name": "ESPN",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/espn.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45579"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/747"
 				}
 			]
 		},
@@ -509,7 +509,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45580"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/41918"
 				}
 			]
 		},
@@ -519,7 +519,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45578"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2312"
 				}
 			]
 		},
@@ -529,7 +529,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/90958"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2311"
 				}
 			]
 		},
@@ -539,7 +539,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45571"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/54432"
 				}
 			]
 		},
@@ -548,8 +548,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fs2.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45570"
+					"video_quality": "1080p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/40840"
 				}
 			]
 		},
@@ -559,7 +559,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45572"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2314"
 				}
 			]
 		},
@@ -568,8 +568,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/golf_channel.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45554"
+					"video_quality": "540p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/5845"
 				}
 			]
 		},
@@ -579,7 +579,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/234677"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3370"
 				}
 			]
 		},
@@ -589,17 +589,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45474"
-				}
-			]
-		},
-		{
-			"channel_name": "Tennis Channel",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tennis_channel.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/811667"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2275"
 				}
 			]
 		},
@@ -618,8 +608,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/wwe.png",
 			"channel_stream": [
 				{
-					"video_quality": "540p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/45462"
+					"video_quality": "1080p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/2373"
 				}
 			]
 		},
