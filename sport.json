@@ -6,7 +6,7 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_action.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
+					"video_quality": "546p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900"
 				}
 			]
@@ -16,8 +16,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_blitz.png",
 			"channel_stream": [
                 {
-					"video_quality": "576p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/425310"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/resplice/BiD8iEiMv7js1OUL/281536"
 				}
 			]
 		},
@@ -25,13 +25,9 @@
 			"channel_name": "SuperSport Cricket",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_cricket.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/28905"
-				},
                 {
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239087"
+					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905"
 				}
 			]
 		},
@@ -40,8 +36,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_football.png",
 			"channel_stream": [
                 {
-					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239083"
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/38575"
 				}
 			]
 		},
@@ -51,7 +47,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/425667"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/11641"
 				}
 			]
 		},
@@ -62,10 +58,6 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28897"
-				},
-				{
-					"video_quality": "576p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239079"
 				}
 			]
 		},
@@ -86,6 +78,10 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907"
+				},
+				{
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/resplice/BiD8iEiMv7js1OUL/38572"
 				}
 			]
 		},
@@ -105,7 +101,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/811666"
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/15200"
 				}
 			]
 		},
@@ -115,11 +111,11 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28896"
+					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/28896"
 				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239078"
+					"stream_link": "http://gamsgo.cyou:8080/resplice/BiD8iEiMv7js1OUL/11642"
 				}
 			]
 		},
@@ -169,7 +165,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/239085"
+					"stream_link": "http://gamsgo.cyou:8080/resplice/BiD8iEiMv7js1OUL/11635"
 				}
 			]
 		},
@@ -189,11 +185,11 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/30494"
+					"stream_link": "http://humiptv.live:8080/live/Antonio123/Antonio123/122408.ts"
 				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://line.rs6ott.com:80/Andreas/Andreas/83448"
+					"stream_link": "http://gamsgo.cyou:8080/resplice/BiD8iEiMv7js1OUL/260"
 				},
 				{
 					"video_quality": "576",
