@@ -554,6 +554,16 @@
 			]
 		},
 		{
+			"channel_name": "FOX Sports Deportes",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_dep.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14820"
+				}
+			]
+		},
+		{
 			"channel_name": "FOX Soccer Plus",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soccer_plus.png",
 			"channel_stream": [
