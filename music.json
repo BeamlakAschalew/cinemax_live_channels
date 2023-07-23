@@ -1,5 +1,5 @@
 {
-	"channel_count": 27,
+	"channel_count": 30,
 	"channels": [
 		{
 			"channel_name": "Trace Urban",
@@ -18,6 +18,36 @@
 				{
 					"video_quality": "720p",
 					"stream_link": "http://kuchini.site:8080/7abb81c7/e9c0e4445d/166809"
+				}
+			]
+		},
+		{
+			"channel_name": "MTV Classic",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_classic.png",
+			"channel_stream": [
+				{
+					"video_quality": "480p",
+					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/149153"
+				}
+			]
+		},
+		{
+			"channel_name": "MTV Hits",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_hits.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212331"
+				}
+			]
+		},
+		{
+			"channel_name": "MTV Music",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_music.png",
+			"channel_stream": [
+				{
+					"video_quality": "574p",
+					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212332"
 				}
 			]
 		},
