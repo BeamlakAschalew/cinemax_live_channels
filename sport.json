@@ -1,5 +1,5 @@
 {
-	"channel_count": 57,
+	"channel_count": 61,
 	"channels": [
 		{
 			"channel_name": "SuperSport Action",
@@ -42,6 +42,16 @@
 			]
 		},
 		{
+			"channel_name": "SuperSport Football plus",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_ftp.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157943.ts"
+				}
+			]
+		},
+		{
 			"channel_name": "SuperSport Golf",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_golf.png",
 			"channel_stream": [
@@ -68,6 +78,16 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/28895"
+				}
+			]
+		},
+		{
+			"channel_name": "SuperSport Liyu",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_liyu.png",
+			"channel_stream": [
+				{
+					"video_quality": "7200p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157950.ts"
 				}
 			]
 		},
@@ -193,6 +213,16 @@
 				}
 			]
         },
+		{
+			"channel_name": "Sky Sports Arena",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_arena.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/16968"
+				}
+			]
+		},
 		{
 			"channel_name": "Sky Sports Action",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_action.png",
@@ -324,8 +354,8 @@
 			]
         },
 		{
-			"channel_name": "BT Sports 1",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bt1.png",
+			"channel_name": "TNT Sports 1",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tnt1.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -334,8 +364,8 @@
 			]
         },
 		{
-			"channel_name": "BT Sports 2",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bt2.png",
+			"channel_name": "TNT Sports 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tnt2.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -344,8 +374,8 @@
 			]
         },
 		{
-			"channel_name": "BT Sports 3",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bt3.png",
+			"channel_name": "TNT Sports 3",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tnt3.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",

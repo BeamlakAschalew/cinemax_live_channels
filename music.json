@@ -1,5 +1,5 @@
 {
-	"channel_count": 14,
+	"channel_count": 27,
 	"channels": [
 		{
 			"channel_name": "Trace Urban",
@@ -8,6 +8,16 @@
 				{
 					"video_quality": "Multiple resolutions",
 					"stream_link": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+				}
+			]
+		},
+		{
+			"channel_name": "GEM 24B",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/gem24b.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://kuchini.site:8080/7abb81c7/e9c0e4445d/166809"
 				}
 			]
 		},
