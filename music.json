@@ -102,16 +102,6 @@
 			]
 		},
 		{
-			"channel_name": "Music Choice 70's",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
-			"channel_stream": [
-				{
-					"video_quality": "368p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/991608"
-				}
-			]
-		},
-		{
 			"channel_name": "Music Choice classic alternatives",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
 			"channel_stream": [
@@ -126,18 +116,18 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/991607"
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/148267"
 				}
 			]
 		},
 		{
-			"channel_name": "Music Choice Country Music",
+			"channel_name": "Music Choice Today's Country",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
 			"channel_stream": [
 				{
-					"video_quality": "720ps",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/991605"
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66076"
 				}
 			]
 		},
@@ -178,16 +168,6 @@
 				{
 					"video_quality": "540p",
 					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66079"
-				}
-			]
-		},
-		{
-			"channel_name": "Music Choice Jazz",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/991599"
 				}
 			]
 		},

@@ -345,7 +345,7 @@
 				},
                 {
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/83449"
+					"stream_link": "http://medotv.nl:8000/ataa/caBeFNgbFaZN/108179"
 				},
 				{
 					"video_quality": "546p",
@@ -514,16 +514,6 @@
 			]
 		},
 		{
-			"channel_name": "NBC Sports",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nbcsn.png",
-			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1124350"
-				}
-			]
-		},
-		{
 			"channel_name": "ESPN",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/espn.png",
 			"channel_stream": [
@@ -639,7 +629,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/91949"
+					"stream_link": "http://medotv.nl:8000/ataa/caBeFNgbFaZN/94528"
 				}
 			]
 		},
@@ -659,7 +649,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/806919"
+					"stream_link": "http://m3u.4klion.xyz:80/anthony12/anthony12/551773"
 				}
 			]
 		}

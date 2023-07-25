@@ -164,8 +164,8 @@
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_soul.png",
             "channel_stream": [
                 {
-                     "video_quality": "480p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13006"
+                     "video_quality": "540p",
+                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/154287.ts"
                 }
             ]
         },
@@ -176,16 +176,6 @@
                 {
                     "video_quality": "720p",
                     "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2306"
-                }
-			]
-		},
-		{
-			"channel_name": "Fox Soul",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soul.png",
-			"channel_stream": [
-                {
-                    "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/730907"
                 }
 			]
 		},
@@ -260,26 +250,6 @@
 			]
 		},
 		{
-			"channel_name": "Pop",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/pop.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/45509"
-				}
-			]
-		},
-		{
-			"channel_name": "Showtime bet",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/showbet.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/303331"
-				}
-			]
-		},
-		{
 			"channel_name": "Sundance",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sundance.png",
 			"channel_stream": [
@@ -326,10 +296,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/769"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1198205"
 				}
 			]
 		},
