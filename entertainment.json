@@ -27,7 +27,11 @@
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/45604"
+                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72632"
+                },
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/65675"
                 }
 			]
 		},
@@ -66,12 +70,12 @@
             ]
         },
         {
-            "channel_name": "ABC",
+            "channel_name": "ABC (NY)",
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abc.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/45439"
+                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/65846"
                 }
             ]
         },
@@ -80,8 +84,8 @@
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/as.png",
             "channel_stream": [
                 {
-                     "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/150345"
+                     "video_quality": "540p",
+                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58519"
                 }
             ]
         },
@@ -101,7 +105,7 @@
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/534381"
+                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58472"
                 }
             ]
         },
@@ -130,8 +134,8 @@
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_gosp.png",
             "channel_stream": [
                 {
-                     "video_quality": "432p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/91767"
+                     "video_quality": "540p",
+                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/154286.ts"
                 }
             ]
         },
@@ -162,16 +166,6 @@
                 {
                      "video_quality": "480p",
                     "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/13006"
-                }
-            ]
-        },
-        {
-            "channel_name": "Comedy TV",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedytv.png",
-            "channel_stream": [
-                {
-                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/91944"
                 }
             ]
         },
