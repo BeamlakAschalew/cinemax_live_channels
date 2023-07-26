@@ -2,6 +2,16 @@
 	"channel_count": 60,
 	"channels": [
 		{
+			"channel_name": "Astro supersport 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass2.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143037.ts"
+				}
+			]
+		},
+		{
 			"channel_name": "SuperSport Action",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_action.png",
 			"channel_stream": [
@@ -608,8 +618,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs_sports.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/267357"
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/1005.ts"
 				}
 			]
 		},
