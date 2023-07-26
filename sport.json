@@ -2,12 +2,62 @@
 	"channel_count": 60,
 	"channels": [
 		{
+			"channel_name": "Astro supersport 1",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass1.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143036.ts"
+				}
+			]
+		},
+		{
 			"channel_name": "Astro supersport 2",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass2.png",
 			"channel_stream": [
                 {
 					"video_quality": "720p",
 					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143037.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "Astro supersport 3",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass3.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143039.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "Astro supersport 4",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass4.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143041.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "Astro supersport 5",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass5.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143044.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "Astro supersport",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ass1.png",
+			"channel_stream": [
+                {
+					"video_quality": "2160p (4K)",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143042.ts"
 				}
 			]
 		},
