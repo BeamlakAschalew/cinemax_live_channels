@@ -752,6 +752,42 @@
 					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/2197.ts"
 				}
 			]
-		}
+		},
+		{
+			"channel_name": "TV Varzish",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/varzish.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_src/index.m3u8"
+				},
+				{
+					"video_quality": "720p",
+					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_720p/index.m3u8"
+				},
+				{
+					"video_quality": "480p",
+					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_480p/index.m3u8"
+				}
+			]
+		},
+		{
+			"channel_name": "Football HD",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/football_hd.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_src/index.m3u8"
+				},
+				{
+					"video_quality": "720p",
+					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_720p/index.m3u8"
+				},
+				{
+					"video_quality": "480p",
+					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_480p/index.m3u8"
+				}
+			]
+		},
 	]
 }
