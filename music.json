@@ -26,8 +26,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_classic.png",
 			"channel_stream": [
 				{
-					"video_quality": "480p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/149153"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/3404.ts"
 				}
 			]
 		},
@@ -36,8 +36,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_hits.png",
 			"channel_stream": [
 				{
-					"video_quality": "574p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212331"
+					"video_quality": "576p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/5812.ts"
 				}
 			]
 		},
@@ -46,8 +46,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_music.png",
 			"channel_stream": [
 				{
-					"video_quality": "574p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212332"
+					"video_quality": "576p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/5810.ts"
 				}
 			]
 		},

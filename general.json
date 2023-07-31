@@ -7,7 +7,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2315"
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/3364.ts"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/23301"
+                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/3399.ts"
                 }
 			]
 		},
@@ -36,8 +36,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_life.png",
 			"channel_stream": [
                 {
-                    "video_quality": "576p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/201208"
+                    "video_quality": "720p",
+                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/3401.ts"
                 }
 			]
 		},
@@ -77,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/749"
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/17.ts"
 				}
 			]
 		},
