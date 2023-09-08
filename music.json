@@ -27,7 +27,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "480p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/149153"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/290680"
 				}
 			]
 		},
@@ -37,7 +37,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "574p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212331"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/4736"
 				}
 			]
 		},
@@ -46,8 +46,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_music.png",
 			"channel_stream": [
 				{
-					"video_quality": "574p",
-					"stream_link": "http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/212332"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/282262"
 				}
 			]
 		},
