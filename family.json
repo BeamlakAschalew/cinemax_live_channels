@@ -57,7 +57,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2303"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2303"
 				}
 			]
 		},
@@ -77,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2351"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2351"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2281"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2281"
 				}
 			]
 		},
@@ -107,7 +107,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8608"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/8608"
 				}
 			]
 		},
@@ -117,7 +117,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/14837"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14837"
 				}
 			]
 		},
@@ -127,7 +127,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/15058"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/15058"
 				}
 			]
 		}
