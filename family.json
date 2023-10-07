@@ -7,7 +7,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2300"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/2300"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14835"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/14835"
 				}
 			]
 		},
@@ -37,7 +37,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/764"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/764"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2286"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/2286"
 				}
 			]
 		},
@@ -57,7 +57,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2303"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/2303"
 				}
 			]
 		},
@@ -67,7 +67,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6395"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/6395"
 				}
 			]
 		},
@@ -77,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2351"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/2351"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2281"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/2281"
 				}
 			]
 		},
@@ -107,7 +107,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/8608"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/8608"
 				}
 			]
 		},
@@ -117,7 +117,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14837"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/14837"
 				}
 			]
 		},
@@ -127,7 +127,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/15058"
+					"stream_link": "http://gamsgo.cyou:8080/outputofflinechecker/pass/15058"
 				}
 			]
 		}
