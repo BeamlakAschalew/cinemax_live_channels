@@ -1,6 +1,135 @@
 {
 	"channel_count": 13,
 	"channels": [
-      
+        {
+			"channel_name": "Discovery Family",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/d_family.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3400.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "WildEarth",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/wildearth.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "https://wildearth-roku.amagi.tv/masterR720P.m3u8"
+				}
+			]
+		},
+        {
+			"channel_name": "Nick jr",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nickjr.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/38.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Nickelodeon",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nick.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/37.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Cartoon Network",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cn.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3365.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Disney Channel",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_channel.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2303"
+				}
+			]
+		},
+		{
+			"channel_name": "Disney XD",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_xd.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3403.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Nicktoons",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nicktoons.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2351"
+				}
+			]
+		},
+        {
+			"channel_name": "Boomerang",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/boomerang.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2281"
+				}
+			]
+		},
+        {
+			"channel_name": "CBeebies",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cebeebies.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/26.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Disney Junior",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_junior.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8608"
+				}
+			]
+		},
+        {
+			"channel_name": "PBS Kids",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/pbs_kids.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/14837"
+				}
+			]
+		},
+		{
+			"channel_name": "teen nick",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/teennick.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/15058"
+				}
+			]
+		}
 	]
 }

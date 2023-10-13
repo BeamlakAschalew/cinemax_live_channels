@@ -1,6 +1,105 @@
 {
 	"channel_count": 9,
 	"channels": [
-       
+        {
+			"channel_name": "Food network",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/food.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3364.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "History",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/history.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/761"
+				}
+			]
+		},
+        {
+			"channel_name": "Discovery",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery.png",
+			"channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3399.ts"
+                }
+			]
+		},
+		{
+			"channel_name": "Discovery Life",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_life.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3401.ts"
+                }
+			]
+		},
+		{
+			"channel_name": "Discovery Science",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_science.png",
+			"channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2301"
+                }
+			]
+		},
+		{
+			"channel_name": "Discovery Turbo",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_turbo.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1114"
+				}
+			]
+		},
+		{
+			"channel_name": "Discovery World",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_world.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/755"
+				}
+			]
+		},
+        {
+			"channel_name": "National Geographic",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ng.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/17.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "National Geographic Wild",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ng_wild.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6503"
+				}
+			]
+		},
+		{
+			"channel_name": "Oxygen true crime",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/oxygen.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6378"
+				}
+			]
+		}
 	]
 }
