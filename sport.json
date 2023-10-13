@@ -310,10 +310,6 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/28.ts"
 				},
                 {
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/260"
-				},
-                {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148678.ts"
 				}
@@ -434,10 +430,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1073.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/163132"
 				},
                 {
 					"video_quality": "480p",
@@ -574,96 +566,6 @@
 			]
 		},
 		{
-			"channel_name": "Bein Sports",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/284530"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports Xtra 1",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/290037"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports Xtra 2",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/283294"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 2",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein2.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151022"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 4",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein4.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151024"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 5",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein5.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151026"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 6",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein6.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151030"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 7",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein7.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151028"
-				}
-			]
-		},
-		{
-			"channel_name": "Bein Sports 8",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein8.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/151032"
-				}
-			]
-		},
-		{
 			"channel_name": "CBS Sports Network",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs_sports.png",
 			"channel_stream": [
@@ -734,16 +636,6 @@
 			]
 		},
 		{
-			"channel_name": "FOX Sports Deportes",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_dep.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14820"
-				}
-			]
-		},
-		{
 			"channel_name": "FOX Soccer Plus",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_soccer_plus.png",
 			"channel_stream": [
@@ -769,7 +661,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3370"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154424.ts"
 				}
 			]
 		},
@@ -810,42 +702,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/2197.ts"
-				}
-			]
-		},
-		{
-			"channel_name": "TV Varzish",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/varzish.png",
-			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_src/index.m3u8"
-				},
-				{
-					"video_quality": "720p",
-					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_720p/index.m3u8"
-				},
-				{
-					"video_quality": "480p",
-					"stream_link": "https://player.mayya.et/liveplay/MGqiT2d-pX7zkJJ_BToGIWCDhT030xdotxCyrfcvSSw/1690375855/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/varzish-tv_1_480p/index.m3u8"
-				}
-			]
-		},
-		{
-			"channel_name": "Football HD",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/football_hd.png",
-			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_src/index.m3u8"
-				},
-				{
-					"video_quality": "720p",
-					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_720p/index.m3u8"
-				},
-				{
-					"video_quality": "480p",
-					"stream_link": "https://player.mayya.et/liveplay/f3O4tSaygPdkkpvCIGQghDjKDcqQbJe_DzilM3egMvQ/1690376819/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/football_1_480p/index.m3u8"
 				}
 			]
 		}

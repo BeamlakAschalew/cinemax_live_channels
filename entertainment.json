@@ -55,7 +55,7 @@
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4667"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1285.ts"
                 }
             ]
         },
@@ -235,7 +235,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/14839"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1547.ts"
 				}
 			]
 		},
@@ -246,16 +246,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154156.ts"
-				}
-			]
-		},
-		{
-			"channel_name": "Sundance",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sundance.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2358"
 				}
 			]
 		},
@@ -314,8 +304,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/vh1.png",
 			"channel_stream": [
 				{
-					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2370"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3414.ts"
 				}
 			]
 		}

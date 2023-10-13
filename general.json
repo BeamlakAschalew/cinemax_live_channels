@@ -16,8 +16,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/history.png",
 			"channel_stream": [
 				{
-					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/761"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158024.ts"
 				}
 			]
 		},
@@ -46,8 +46,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_science.png",
 			"channel_stream": [
                 {
-                    "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2301"
+                    "video_quality": "576p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148448.ts"
                 }
 			]
 		},
@@ -57,7 +57,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1114"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148447.ts"
 				}
 			]
 		},
@@ -66,8 +66,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_world.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/755"
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154329.ts"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6503"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157996.ts"
 				}
 			]
 		},
@@ -96,8 +96,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/oxygen.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6378"
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7355.ts"
 				}
 			]
 		}
