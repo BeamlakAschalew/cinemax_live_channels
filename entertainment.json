@@ -308,6 +308,36 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3414.ts"
 				}
 			]
+		},
+        {
+			"channel_name": "Zee5",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/zee5.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/211252.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Abol TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abol.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/161607.ts"
+				}
+			]
+		},
+        {
+			"channel_name": "Abol Duka",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abol_duka.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/161539.ts"
+				}
+			]
 		}
 	]
 }
