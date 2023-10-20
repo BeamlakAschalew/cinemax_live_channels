@@ -21,6 +21,26 @@
 					"stream_link": "https://rumble.com/live-hls-dvr/3mkkeb/playlist.m3u8"
 				}
 			]
+		},
+		{
+			"channel_name": "Walta TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/walta.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "https://live.zergaw.et/hls/1234.m3u8"
+				}
+			]
+		},
+		{
+			"channel_name": "Addis TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/addis.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:b4:a2:e3&stream=127580&extension=ts&play_token=hiHlWf0SpM"
+				}
+			]
 		}
 	]
 }
