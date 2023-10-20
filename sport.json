@@ -291,10 +291,6 @@
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23.ts"
 				},
-				{
-					"video_quality": "720p",
-					"stream_link": "http://medotv.nl:8000/ataa/caBeFNgbFaZN/108180"
-				},
                 {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148685.ts"
@@ -324,10 +320,6 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/21.ts"
 				},
                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/3598"
-				},
-                {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148677.ts"
 				}
@@ -340,10 +332,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/12.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d"
 				},
                 {
 					"video_quality": "480p",
@@ -378,10 +366,6 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/19.ts"
 				},
                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/20024"
-				},
-                {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148681.ts"
 				}
@@ -396,10 +380,6 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/11.ts"
 				},
                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/3600"
-				},
-                {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148682.ts"
 				}
@@ -412,10 +392,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/122410.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/4458"
 				},
                 {
 					"video_quality": "540p",
@@ -446,10 +422,6 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/18.ts"
 				},
                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/MDKraker/GwWZ9I296/5600"
-				},
-                {
 					"video_quality": "480p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148683.ts"
 				}
@@ -462,10 +434,6 @@
 				{
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23335.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://medotv.nl:8000/ataa/caBeFNgbFaZN/108179"
 				},
 				{
 					"video_quality": "480p",
@@ -534,10 +502,6 @@
                 {
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23793.ts"
-				},
-                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/15000"
 				}
 			]
         },
@@ -548,10 +512,6 @@
                 {
 					"video_quality": "1080p",
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/133700.ts"
-				},
-                 {
-					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/15001"
 				}
 			]
         },
