@@ -348,16 +348,6 @@
 					"stream_link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:b4:a2:e3&stream=280527&extension=ts&play_token=SqymRptUUa"
 				}
 			]
-		},
-        {
-			"channel_name": "EBS TV",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ebs.png",
-			"channel_stream": [
-				{
-					"video_quality": "720p",
-					"stream_link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:b4:a2:e3&stream=280527&extension=ts&play_token=SqymRptUUa"
-				}
-			]
 		}
 	]
 }
