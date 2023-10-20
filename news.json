@@ -1,6 +1,26 @@
 {
 	"channel_count": 10,
 	"channels": [
-       
+        
+        {
+			"channel_name": "Al Jazeera",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/alj.png",
+			"channel_stream": [
+				{
+					"video_quality": "480p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/151236.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "Mereja TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mereja.png",
+			"channel_stream": [
+				{
+					"video_quality": "auto",
+					"stream_link": "https://rumble.com/live-hls-dvr/3mkkeb/playlist.m3u8"
+				}
+			]
+		}
 	]
 }
