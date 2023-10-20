@@ -100,6 +100,16 @@
 					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7355.ts"
 				}
 			]
+		},
+		{
+			"channel_name": "Africa TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/africa.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
+				}
+			]
 		}
 	]
 }
