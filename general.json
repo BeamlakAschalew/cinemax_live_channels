@@ -7,7 +7,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2315"
+					"stream_link": "2315"
 				}
 			]
 		},
@@ -17,7 +17,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/761"
+					"stream_link": "761"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/23301"
+                    "stream_link": "23301"
                 }
 			]
 		},
@@ -37,7 +37,7 @@
 			"channel_stream": [
                 {
                     "video_quality": "576p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/201208"
+                    "stream_link": "201208"
                 }
 			]
 		},
@@ -47,7 +47,7 @@
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2301"
+                    "stream_link": "2301"
                 }
 			]
 		},
@@ -57,7 +57,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/1114"
+					"stream_link": "1114"
 				}
 			]
 		},
@@ -67,7 +67,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/755"
+					"stream_link": "755"
 				}
 			]
 		},
@@ -77,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/749"
+					"stream_link": "749"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6503"
+					"stream_link": "6503"
 				}
 			]
 		},
@@ -97,7 +97,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6378"
+					"stream_link": "6378"
 				}
 			]
 		}
