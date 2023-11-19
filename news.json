@@ -1,7 +1,106 @@
 {
 	"channel_count": 10,
 	"channels": [
-        
+        {
+			"channel_name": "ABC News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abc_news.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2734"
+				}
+			]
+		},
+        {
+			"channel_name": "Al Jazeera",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/alj.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/24077"
+				}
+			]
+		},
+        {
+			"channel_name": "BBC World News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bbcwn.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/696"
+				}
+			]
+		},
+		{
+			"channel_name": "CBS News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs.png",
+			"channel_stream": [
+                {
+                    "video_quality": "720p",
+                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2740"
+                }
+			]
+		},
+		{
+			"channel_name": "CNN",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cnn.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/753"
+				}
+			]
+		},
+        {
+			"channel_name": "CNBC",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cnbc.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2295"
+				}
+			]
+		},
+        {
+			"channel_name": "CNBC World",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cnbc_world.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6431"
+				}
+			]
+		},
+		{
+			"channel_name": "FOX News",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_news.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/1611"
+				}
+			]
+		},
+		{
+			"channel_name": "FOX Livenow",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/foxlive.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/294805"
+				}
+			]
+		},
+		{
+			"channel_name": "MSNBC",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/msnbc.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/406"
+				}
+			]
+		},
         {
 			"channel_name": "Al Jazeera",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/alj.png",

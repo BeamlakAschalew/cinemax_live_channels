@@ -7,7 +7,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3400.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2300"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/38.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14835"
 				}
 			]
 		},
@@ -37,7 +37,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/37.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/764"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3365.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2286"
 				}
 			]
 		},
@@ -56,8 +56,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_channel.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/19832.ts"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2303"
 				}
 			]
 		},
@@ -67,7 +67,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3403.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6395"
 				}
 			]
 		},
@@ -77,7 +77,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/993.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2351"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158031.ts"
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2281"
 				}
 			]
 		},
@@ -96,8 +96,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cebeebies.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/26.ts"
+					"video_quality": "576p",
+					"stream_link": "http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/16204"
 				}
 			]
 		},
@@ -106,8 +106,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/disney_junior.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158066.ts"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/8608"
 				}
 			]
 		},
@@ -116,8 +116,18 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/pbs_kids.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/120868.ts"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14837"
+				}
+			]
+		},
+		{
+			"channel_name": "teen nick",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/teennick.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/15058"
 				}
 			]
 		}

@@ -1,5 +1,5 @@
 {
-	"channel_count": 60,
+	"channel_count": 61,
 	"channels": [
 		{
 			"channel_name": "Astro supersport 1",
@@ -7,7 +7,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143036.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146068"
 				}
 			]
 		},
@@ -17,7 +17,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143037.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157556"
 				}
 			]
 		},
@@ -27,7 +27,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143039.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157557"
 				}
 			]
 		},
@@ -37,7 +37,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143041.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157558"
 				}
 			]
 		},
@@ -47,7 +47,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143044.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/287792"
 				}
 			]
 		},
@@ -57,7 +57,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "2160p (4K)",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/143042.ts"
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143042.ts"
 				}
 			]
 		},
@@ -65,13 +65,9 @@
 			"channel_name": "SuperSport Action",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_action.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901"
-				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157948.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/194354"
 				}
 			]
 		},
@@ -80,12 +76,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_blitz.png",
 			"channel_stream": [
                 {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/7JvIck488/meAqNw5218/28906"
-				},
-                {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157955.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/281536"
 				}
 			]
 		},
@@ -95,7 +87,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157939.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11637"
 				}
 			]
 		},
@@ -104,8 +96,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_football.png",
 			"channel_stream": [
                 {
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157942.ts"
+					"video_quality": "576p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/38575"
 				}
 			]
 		},
@@ -115,7 +107,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157943.ts"
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157943.ts"
 				}
 			]
 		},
@@ -125,7 +117,7 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157946.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11641"
 				}
 			]
 		},
@@ -135,7 +127,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158441.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/194353"
 				}
 			]
 		},
@@ -143,13 +135,9 @@
 			"channel_name": "SuperSport LaLiga",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_laliga.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28895"
-				},
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157941.ts"
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/194358"
 				}
 			]
 		},
@@ -158,8 +146,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_liyu.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157950.ts"
+					"video_quality": "7200p",
+					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157950.ts"
 				}
 			]
 		},
@@ -167,13 +155,9 @@
 			"channel_name": "SuperSport Maximo 1",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_maximo1.png",
 			"channel_stream": [
-                {
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157942.ts"
-				},
 				{
-					"video_quality": "576p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28907"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/38572"
 				}
 			]
 		},
@@ -183,7 +167,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157947.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11638"
 				}
 			]
 		},
@@ -193,7 +177,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157949.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/15200"
 				}
 			]
 		},
@@ -201,13 +185,9 @@
 			"channel_name": "SuperSport Premier League",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_pl.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28896"
-				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157940.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11642"
 				}
 			]
 		},
@@ -215,13 +195,9 @@
 			"channel_name": "SuperSport PSL",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_psl.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28894"
-				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157944.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11643"
 				}
 			]
 		},
@@ -229,13 +205,9 @@
 			"channel_name": "SuperSport Rugby",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_rugby.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157942.ts"
-				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28904"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11639"
 				}
 			]
 		},
@@ -243,13 +215,9 @@
 			"channel_name": "SuperSport Variety 1",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_variety1.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28899"
-				},
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157951.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11633"
 				}
 			]
 		},
@@ -259,7 +227,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157952.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11634"
 				}
 			]
 		},
@@ -269,7 +237,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157953.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11635"
 				}
 			]
 		},
@@ -279,7 +247,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/157954.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/11636"
 				}
 			]
 		},
@@ -288,12 +256,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_sports_news.png",
 			"channel_stream": [
 				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23.ts"
-				},
-                {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148685.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/260"
 				}
 			]
         },
@@ -303,11 +267,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/28.ts"
-				},
-                {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148678.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/267"
 				}
 			]
 		},
@@ -315,13 +275,9 @@
 			"channel_name": "Sky Sports Action",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_action.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/21.ts"
-				},
                 {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148677.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/269"
 				}
 			]
         },
@@ -331,11 +287,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/12.ts"
-				},
-                {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148679.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/269"
 				}
 			]
         },
@@ -343,17 +295,9 @@
 			"channel_name": "Sky Sports F1",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_f1.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23340.ts"
-				},
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/144581.ts"
-				},
-                {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148680.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/265"
 				}
 			]
         },
@@ -361,13 +305,9 @@
 			"channel_name": "Sky Sports Football",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_football.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/19.ts"
-				},
                 {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148681.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/266"
 				}
 			]
         },
@@ -375,13 +315,9 @@
 			"channel_name": "Sky Sports Golf",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_golf.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/11.ts"
-				},
                 {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148682.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/264"
 				}
 			]
         },
@@ -389,13 +325,9 @@
 			"channel_name": "Sky Sports Premier League",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_pl.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/122410.ts"
-				},
                 {
-					"video_quality": "540p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/9891.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/263"
 				}
 			]
         },
@@ -403,13 +335,9 @@
 			"channel_name": "Sky Sports Racing",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_racing.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1073.ts"
-				},
                 {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148687.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/163132"
 				}
 			]
         },
@@ -417,13 +345,9 @@
 			"channel_name": "Sky Sports Main Event",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_main.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/18.ts"
-				},
                 {
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148683.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/283053"
 				}
 			]
         },
@@ -431,13 +355,9 @@
 			"channel_name": "Sky Sports Mix",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sky_mix.png",
 			"channel_stream": [
-				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23335.ts"
-				},
-				{
-					"video_quality": "480p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148684.ts"
+                {
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/83449"
 				}
 			]
         },
@@ -445,17 +365,9 @@
 			"channel_name": "TNT Sports 1",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tnt1.png",
 			"channel_stream": [
-                {
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/161723.ts"
-				},
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/286.ts"
-				},
-                {
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148561.ts"
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/270"
 				}
 			]
         },
@@ -465,15 +377,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23565.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148361.ts"
-				},
-                {
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148560.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/273"
 				}
 			]
         },
@@ -483,15 +387,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23351.ts"
-				},
-                {
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148360.ts"
-				},
-                {
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/148559.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/271"
 				}
 			]
         },
@@ -500,8 +396,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_en_1.png",
 			"channel_stream": [
                 {
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23793.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/110"
 				}
 			]
         },
@@ -510,8 +406,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_en_2.png",
 			"channel_stream": [
                 {
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/133700.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/111"
 				}
 			]
         },
@@ -521,7 +417,97 @@
 			"channel_stream": [
                 {
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/138722.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/267769"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/284530"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports Xtra 1",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/290037"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports Xtra 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein_xtra.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/283294"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein2.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151022"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 4",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein4.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151024"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 5",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein5.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151026"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 6",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein6.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151030"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 7",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein7.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151028"
+				}
+			]
+		},
+		{
+			"channel_name": "Bein Sports 8",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bein8.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/151032"
 				}
 			]
 		},
@@ -530,8 +516,18 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs_sports.png",
 			"channel_stream": [
 				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/267357"
+				}
+			]
+		},
+		{
+			"channel_name": "NBC Sports",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/nbcsn.png",
+			"channel_stream": [
+				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1005.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1124350"
 				}
 			]
 		},
@@ -541,7 +537,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/52.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/747"
 				}
 			]
 		},
@@ -551,7 +547,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/53.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/41918"
 				}
 			]
 		},
@@ -561,7 +557,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7371.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2312"
 				}
 			]
 		},
@@ -571,7 +567,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/88177.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2311"
 				}
 			]
 		},
@@ -581,7 +577,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/54.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/54432"
 				}
 			]
 		},
@@ -590,8 +586,18 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fs2.png",
 			"channel_stream": [
 				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/40840"
+				}
+			]
+		},
+		{
+			"channel_name": "FOX Sports Deportes",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fox_dep.png",
+			"channel_stream": [
+				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/55.ts"
+					"stream_link": "http://kuchini.site:8080/Vladisergeevic/7eef2c4388/14820"
 				}
 			]
 		},
@@ -601,7 +607,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154365.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2314"
 				}
 			]
 		},
@@ -610,8 +616,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/golf_channel.png",
 			"channel_stream": [
 				{
-					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/56.ts"
+					"video_quality": "540p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5845"
 				}
 			]
 		},
@@ -621,7 +627,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154424.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3370"
 				}
 			]
 		},
@@ -631,7 +637,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/712.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2275"
 				}
 			]
 		},
@@ -641,7 +647,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1057.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/91949"
 				}
 			]
 		},
@@ -651,7 +657,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/711.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2373"
 				}
 			]
 		},
@@ -661,7 +667,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/2197.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/806919"
 				}
 			]
 		}

@@ -12,12 +12,12 @@
 			]
 		},
 		{
-			"channel_name": "Trace Muzika",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/trace_muzika.png",
+			"channel_name": "GEM 24B",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/gem24b.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/171929.ts"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/166809"
 				}
 			]
 		},
@@ -26,8 +26,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_classic.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3404.ts"
+					"video_quality": "480p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/290680"
 				}
 			]
 		},
@@ -36,8 +36,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_hits.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/5812.ts"
+					"video_quality": "574p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/4736"
 				}
 			]
 		},
@@ -46,8 +46,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_music.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/5810.ts"
+					"video_quality": "720p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/282262"
 				}
 			]
 		},
@@ -101,6 +101,177 @@
 				}
 			]
 		},
+		{
+			"channel_name": "Music Choice classic alternatives",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66103"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Tropicales",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/148267"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Today's Country",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66076"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Hiphop and R&B",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66075"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Pop Hits",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66082"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Pop Latino",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66090"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice R&B and Soul",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66079"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Rap",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/63184"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Throwback jamz",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66100"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Country Today",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66076"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Toddler Tunes",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66099"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Y2K",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66088"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Max",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66084"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Pop and Country",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66083"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Hit List",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66074"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Kidz Bop",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66104"
+				}
+			]
+		},
+		{
+			"channel_name": "Music Choice Kidz only",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/music_choice.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/66105"
+				}
+			]
+		},
+
         {
 			"channel_name": "Stingray Hit List",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/shits.png",
