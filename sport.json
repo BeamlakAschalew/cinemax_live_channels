@@ -57,7 +57,17 @@
 			"channel_stream": [
                 {
 					"video_quality": "2160p (4K)",
-					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/143042.ts"
+					"stream_link": "http://starshare.live:8080/live/84145092680/47414608267/143042.ts"
+				}
+			]
+		},
+		{
+			"channel_name": "AT&T Sportsnet",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/attspn.png",
+			"channel_stream": [
+                {
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/59945"
 				}
 			]
 		},
@@ -107,7 +117,7 @@
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157943.ts"
+					"stream_link": "http://starshare.live:8080/live/84145092680/47414608267/157943.ts"
 				}
 			]
 		},
@@ -146,8 +156,8 @@
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/ss_liyu.png",
 			"channel_stream": [
 				{
-					"video_quality": "7200p",
-					"stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/157950.ts"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/84145092680/47414608267/157950.ts"
 				}
 			]
 		},

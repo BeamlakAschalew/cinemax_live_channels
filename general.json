@@ -21,6 +21,26 @@
 				}
 			]
 		},
+		{
+			"channel_name": "Cooking channel",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cookingchannel.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2297"
+				}
+			]
+		},
+		{
+			"channel_name": "Court TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/courttv.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/150727"
+				}
+			]
+		},
         {
 			"channel_name": "Discovery",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery.png",
@@ -58,6 +78,16 @@
 				{
 					"video_quality": "576p",
 					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1114"
+				}
+			]
+		},
+		{
+			"channel_name": "Discovery Velocity",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/discovery_velocity.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2302"
 				}
 			]
 		},

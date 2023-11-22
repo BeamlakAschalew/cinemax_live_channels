@@ -32,6 +32,16 @@
 			]
 		},
 		{
+			"channel_name": "Bloomberg TV",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bloomtv.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2280"
+				}
+			]
+		},
+		{
 			"channel_name": "CBS News",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs.png",
 			"channel_stream": [

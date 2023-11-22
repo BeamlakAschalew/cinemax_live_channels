@@ -1,60 +1,6 @@
 {
 	"channel_count": 35,
 	"channels": [
-		{
-			"channel_name": "Comedy Central (US)",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
-			"channel_stream": [
-				{
-					"video_quality": "576p",
-					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/754"
-				}
-			]
-		},
-        {
-            "channel_name": "BET",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet.png",
-            "channel_stream": [
-                {
-                    "video_quality": "1080p",
-                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2278"
-                }
-            ]
-        },
-        {
-			"channel_name": "CBS",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs.png",
-			"channel_stream": [
-                {
-                    "video_quality": "1080p",
-                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/72632"
-                },
-                {
-                    "video_quality": "720p",
-                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/65675"
-                }
-			]
-		},
-        {
-            "channel_name": "MTV",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv.png",
-            "channel_stream": [
-                {
-                     "video_quality": "720p",
-                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2344"
-                }
-            ]
-        },
-        {
-            "channel_name": "Lifetime",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/lifetime.png",
-            "channel_stream": [
-                {
-                     "video_quality": "1080p",
-                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4667"
-                }
-            ]
-        },
         {
             "channel_name": "A&E",
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/aande.png",
@@ -101,7 +47,7 @@
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58472"
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/200388"
                 }
             ]
         },
@@ -131,7 +77,7 @@
             "channel_stream": [
                 {
                      "video_quality": "540p",
-                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/154286.ts"
+                    "stream_link": "http://starshare.live:8080/live/84145092680/47414608267/154286.ts"
                 }
             ]
         },
@@ -162,6 +108,76 @@
                 {
                      "video_quality": "480p",
                     "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/13006"
+                }
+            ]
+        },
+        {
+            "channel_name": "Bounce TV",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bounce.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298313"
+                }
+            ]
+        },
+        {
+            "channel_name": "Bravo",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bravo.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2282"
+                }
+            ]
+        },
+        {
+			"channel_name": "Cine Life",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cinelife.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/298472"
+				}
+			]
+		},
+        {
+			"channel_name": "Cinemax",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2261"
+				}
+			]
+		},
+        {
+			"channel_name": "Comet",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comet.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6497"
+				}
+			]
+		},
+        {
+			"channel_name": "Comedy Central (US)",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/754"
+				}
+			]
+		},
+        {
+            "channel_name": "BET",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet.png",
+            "channel_stream": [
+                {
+                    "video_quality": "1080p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2278"
                 }
             ]
         },
@@ -205,6 +221,27 @@
                 }
 			]
 		},
+        {
+            "channel_name": "Lifetime",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/lifetime.png",
+            "channel_stream": [
+                {
+                     "video_quality": "1080p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4667"
+                }
+            ]
+        },
+        {
+            "channel_name": "MTV",
+            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv.png",
+            "channel_stream": [
+                {
+                     "video_quality": "720p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2344"
+                }
+            ]
+        },
+        
 		{
 			"channel_name": "MTV Live",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_live.png",
