@@ -1,6 +1,125 @@
 {
 	"channel_count": 4,
 	"channels": [
-		
+		{
+			"channel_name": "FX Movie channel",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fxm.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/39873"
+				}
+			]
+		},
+		{
+			"channel_name": "FXM Retro",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fxmr.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5840"
+				}
+			]
+		},
+		{
+			"channel_name": "Hallmark Channel",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hallmark.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/759"
+				}
+			]
+		},
+		{
+			"channel_name": "Hallmark Drama",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hallmarkd.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3387"
+				}
+			]
+		},
+		{
+			"channel_name": "Hallmark Movies & Mysteries",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hallmarkmm.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3388"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hbo.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2336"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hbo2.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/5844"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO Comedy",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hboc.png",
+			"channel_stream": [
+				{
+					"video_quality": "540p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2335"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO Family",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hbof.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/760"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO Signature",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hbos.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6305"
+				}
+			]
+		},
+		{
+			"channel_name": "HBO Zone",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hboz.png",
+			"channel_stream": [
+				{
+					"video_quality": "1080p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6328"
+				}
+			]
+		},
+		{
+			"channel_name": "HDNet Movies",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/hdnetm.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/200162"
+				}
+			]
+		}
 	]
 }

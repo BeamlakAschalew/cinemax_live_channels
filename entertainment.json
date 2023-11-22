@@ -143,7 +143,7 @@
 		},
         {
 			"channel_name": "Cinemax",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cinemax.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -221,6 +221,7 @@
                 }
 			]
 		},
+        
         {
             "channel_name": "Lifetime",
             "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/lifetime.png",

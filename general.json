@@ -22,6 +22,16 @@
 			]
 		},
 		{
+			"channel_name": "History 2",
+			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/history2.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6310"
+				}
+			]
+		},
+		{
 			"channel_name": "Cooking channel",
 			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cookingchannel.png",
 			"channel_stream": [
